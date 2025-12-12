@@ -1,4 +1,4 @@
-                           # GLASS-TYPE-PREDICTION-APP
+                                GLASS-TYPE-PREDICTION-APP
 
 The Glass Type Prediction App is a machine learning project designed to classify glass materials based on their chemical composition. Built using the well-known Glass Identification Dataset, this project demonstrates how data preprocessing, model training, and interactive deployment come together to solve a real-world classification problem.
 
