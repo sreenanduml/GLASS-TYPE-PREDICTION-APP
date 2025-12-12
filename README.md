@@ -24,7 +24,7 @@ A machine-learning powered app that predicts the type of glass based on its chem
 ├── README.md      
 
 └── notebooks/
-    └── model_training.ipynb
+    └── glass.ipynb
 
 The main techniques used in this project are Data Processing,EDA(Exploratory Data Analysis), Machine Learning Modeling(RandomForest), Model Deployment and create app using the same model.
 
