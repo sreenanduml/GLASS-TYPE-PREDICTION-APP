@@ -8,11 +8,13 @@ A machine-learning powered app that predicts the type of glass based on its chem
 
 
  Glass-Type-Prediction-pp
-│
+ 
 ├── data/
+
 │   └── glass.csv
-│
+
 ├── model/
+
 │   └── glass_model.pkl
 
 ├── app.py               
@@ -23,3 +25,7 @@ A machine-learning powered app that predicts the type of glass based on its chem
 
 └── notebooks/
     └── model_training.ipynb
+
+The main techniques used in this project are Data Processing,EDA(Exploratory Data Analysis), Machine Learning Modeling(RandomForest), Model Deployment and create app using the same model.
+
+Whether you’re a student, a data science enthusiast, or a developer exploring ML deployment, this project serves as a clear and practical example of turning raw data into a usable, interactive prediction tool.
